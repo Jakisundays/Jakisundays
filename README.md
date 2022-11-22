@@ -2,7 +2,7 @@
 <h3 align="center">A meticulous frontend developer from Panama 🇵🇦 </h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" align="right" alt="Coding" width="400"/>
 
-- 🌱 I’m currently learning **React.js, Redux, Axios**
+- 🌱 I’m currently learning **Next.js, Node.js, Firebase**
 
 - 👨‍💻 All of my projects are available at [http://Jakisundays.github.io/portfolio](http://Jakisundays.github.io/portfolio)
 
