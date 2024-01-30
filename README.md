@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jacob Dominguez</h1>
-<h3 align="center">A meticulous frontend developer from Panama 🇵🇦 </h3>
+<h3 align="center">Full Stack AI 🤖 </h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" align="right" alt="Coding" width="400"/>
 
-- 🌱 I’m currently learning **Next.js, Node.js, Firebase**
-
-- 👨‍💻 All of my projects are available at [http://Jakisundays.github.io/portfolio](http://Jakisundays.github.io/portfolio)
+- 🌱 I’m currently learning **Langchain.js, Bun.js, Docker**
 
 - 📫 How to reach me **jacobguillermooo@gmail.com**
 
