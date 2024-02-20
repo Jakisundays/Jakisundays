@@ -73,6 +73,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jacobito507&width={1000)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jacobito507)
 
 ###
