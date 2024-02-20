@@ -63,6 +63,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/jakisundays/jakisundays/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -70,9 +72,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/jakisundays/count.svg?"  />
 </div>
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jacobito507)
 
 ###
