@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jakisundays/jakisundays/output/snake.svg" alt="Snake animation" />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jacobito507&width=1000)
 
 ###
