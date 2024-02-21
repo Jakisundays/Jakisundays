@@ -1,4 +1,4 @@
-<h2 align="center">👋 I'm Jacob, a Full Stack enthusiast 🌐 with a passion for AI 🤖 and Web Development 💻.</h2>
+<h1 align="center">👋 I'm Jacob, a Full Stack with a passion for AI 🤖 and Web Development 💻.</h1>
 
 ###
 
